@@ -1,0 +1,36 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "Primeira Aplicação Mean Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Missias",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-load": "^1.1.15",
+    "express-session": "^1.14.0",
+    "helmet": "^0.4.2",
+    "method-override": "^2.3.5",
+    "mongo-sanitize": "^1.0.0",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.3",
+    "mongoose-findorcreate": "^0.1.2",
+    "passport": "^0.3.2",
+    "passport-github": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-usemin": "^2.6.2"
+  }
+}
