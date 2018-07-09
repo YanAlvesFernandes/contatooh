@@ -16,6 +16,7 @@
     "express-load": "^1.1.15",
     "express-session": "^1.14.0",
     "helmet": "^0.4.2",
+    "karma-phantomjs-launcher": "^0.1.4",
     "method-override": "^2.3.5",
     "mongo-sanitize": "^1.0.0",
     "mongodb": "^2.1.7",
